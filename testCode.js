@@ -1,5 +1,5 @@
 function myFunction(){
-    const a = 6;
-    const b = 15;
+    const a = 5;
+    const b = 12;
     return a + b;
 }
